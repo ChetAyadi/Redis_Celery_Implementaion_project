@@ -25,3 +25,9 @@ def send_daily_summary_email():
     )
     return "Daily summary sent"
 
+
+
+#########################################
+# What is Celery Beat ?
+# --> celery beat is a built in schedular for celery. that lets you run tasks periodically at specific    times or regular time interval.
+

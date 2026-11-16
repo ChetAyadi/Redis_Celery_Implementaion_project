@@ -21,7 +21,7 @@ def send_daily_summary_email():
         subject="Daily summary",
         message="Here is your daily summary",
         from_email=None,
-        recipient_list=["developer.rathan@gmail.com"]
+        recipient_list=["vivekayadi777@gmail.com"]
     )
     return "Daily summary sent"
 
